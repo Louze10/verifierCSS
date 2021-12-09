@@ -1,0 +1,15 @@
+.back{background-color: lightblue; background-size: cover; background-repeat: no-repeat;}
+.az h1{
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline; 
+    font-weight: bold;
+    text-align: center;}
+.div{background-color: white; width: 60%; height: 60vh;}
+.div{padding-left: 40%; padding-top: 2%;}
+.re{display: flex;}
+.inline{display: flex;}
+.bout{text-align: center;}
+
+
+

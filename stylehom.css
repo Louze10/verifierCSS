@@ -1,0 +1,14 @@
+.container{
+    background-image: url("mmm.png");
+    background-repeat: no-repeat;
+    background-size: cover;}
+.nav{text-align: center;} 
+.element{
+    background-color: rgba(0, 0, 0, 0.8) ;
+    width: 30%;
+    height: 90vh;
+    color: whitesmoke;}
+.element h3{font-style: italic;}
+.element h2{text-transform: uppercase;}
+.element button{text-transform: uppercase;}
+.element{text-align: center; padding-top: 5%;}
